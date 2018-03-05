@@ -15,11 +15,11 @@ Or even better, try this separate plugin: `Prior99/mopidy-subidy <https://github
 
 
 
-.. image:: https://pypip.in/v/Mopidy-Subsonic/badge.png
+.. image:: https://img.shields.io/pypi/v/Mopidy-Subsonic.svg
     :target: https://pypi.python.org/pypi/Mopidy-Subsonic/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/Mopidy-Subsonic/badge.png
+.. image:: https://img.shields.io/pypi/dm/Mopidy-Subsonic.svg
     :target: https://pypi.python.org/pypi/Mopidy-Subsonic/
     :alt: Number of PyPI downloads
 
